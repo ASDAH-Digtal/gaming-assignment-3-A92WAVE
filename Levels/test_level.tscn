@@ -1460,3 +1460,5 @@ texture = SubResource("ImageTexture_xxa8q")
 
 [node name="SchoolHallWay2" type="Sprite2D" parent="."]
 position = Vector2(86, 459)
+
+[node name="Node2D" type="Node2D" parent="."]
